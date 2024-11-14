@@ -42,7 +42,7 @@ export function Education() {
             </div>
             <div className="space-y-2">
               <h3 className="text-xl font-semibold text-emerald-700 dark:text-emerald-400">
-                Bachelor's in Computer Science and Engineering (CSE)
+                {"Bachelor's in Computer Science and Engineering (CSE)"}
               </h3>
               <p className="text-foreground/60">University of Liberal Arts Bangladesh (ULAB), Dhaka</p>
               <div className="flex items-center gap-2 text-sm text-emerald-600/60">
