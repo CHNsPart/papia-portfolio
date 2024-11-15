@@ -47,7 +47,7 @@ export function Education() {
               <p className="text-foreground/60">University of Liberal Arts Bangladesh (ULAB), Dhaka</p>
               <div className="flex items-center gap-2 text-sm text-emerald-600/60">
                 <IconCalendar className="w-4 h-4" />
-                <span>Graduated: 2019</span>
+                <span>Graduated: 2021</span>
               </div>
             </div>
           </div>

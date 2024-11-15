@@ -27,12 +27,12 @@ const contactInfo = [
 const socials = [
   {
     name: 'GitHub',
-    href: 'https://github.com/yourusername',
+    href: 'https://github.com/NusratJahanPapia',
     icon: IconBrandGithub,
   },
   {
     name: 'LinkedIn',
-    href: 'https://linkedin.com/in/yourusername',
+    href: 'https://www.linkedin.com/in/nusrat-jahan-papia/',
     icon: IconBrandLinkedin,
   },
   {
